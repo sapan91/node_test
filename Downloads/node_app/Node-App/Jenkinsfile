@@ -4,7 +4,7 @@ agent any
 
 	environment {
 		EC2_USER = 'ubuntu'
-		EC2_HOST = ''
+		EC2_HOST = '13.233.227.213'
 		SSH_CREDENTIAL_ID = 'ec2-ssh-key'
 	}
 	stages {
